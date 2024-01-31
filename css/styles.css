@@ -388,6 +388,7 @@ img {
     justify-content: center;
     background-color: #4D5AE5;
     background-repeat: 50%;
+    border-radius: 50%;
 }
 
 .icon-icon {}
