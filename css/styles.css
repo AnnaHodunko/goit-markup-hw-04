@@ -370,6 +370,9 @@ img {
 
 
 /* Icon */
+.icon-container {
+    display: flex;
+}
 .icon-list {
     display: flex;
     justify-content: center;
@@ -391,4 +394,6 @@ img {
     border-radius: 50%;
 }
 
-.icon-icon {}
+.icon-icon {
+    fill: transparent;
+}
