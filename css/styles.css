@@ -407,6 +407,9 @@ img {
 }
 
 .footer-page {
+    width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
     display: flex;
     align-items: baseline;
 }
@@ -442,7 +445,11 @@ img {
     letter-spacing: 0.02em;
     max-width: 264px; 
 }
-
+.div-footer-icon {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
 .text-social {
     font-weight: 500;
     font-size: 16px;
@@ -450,6 +457,7 @@ img {
     letter-spacing: 0.02em;
     color: #FFF;
     margin-bottom: 16px;
+    display: flex;
 }
 
 .icon-list-footer {
